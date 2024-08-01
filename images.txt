@@ -1,2 +1,1 @@
-apache/doris:2.0.0_alpha-be-x86_64
-apache/doris:2.0.0_alpha-fe-x86_64
+nfs-client-provisioner:latest
