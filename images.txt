@@ -1,1 +1,1 @@
-openjdk:17.0.1-jdk-slim
+openjdk:17.0.1-buster
